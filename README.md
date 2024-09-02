@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on LLMs
 - 📫 How to reach me johannes.schenk@dwd.de
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: "Learning GitHub and coding basics — wish me luck!"
 
 <!---
 johannesschenk-dwd/johannesschenk-dwd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
